@@ -1,0 +1,2000 @@
+Case 1:
+Satisfies 7-queen(s) problem? -> No
+Total Possible Configurations for 7-queen(s): 85900584 configurations
+
+Case 2:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 3:
+Satisfies 18-queen(s) problem? -> No
+Total Possible Configurations for 18-queen(s): 1.4948 x 10^29 configurations
+
+Case 4:
+Satisfies 5-queen(s) problem? -> No
+Total Possible Configurations for 5-queen(s): 53130 configurations
+
+Case 5:
+Satisfies 21-queen(s) problem? -> No
+Total Possible Configurations for 21-queen(s): 4.1189 x 10^35 configurations
+
+Case 6:
+Satisfies 8-queen(s) problem? -> Yes
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 7:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 8:
+Satisfies 2-queen(s) problem? -> No
+Total Possible Configurations for 2-queen(s): 6 configurations
+
+Case 9:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 10:
+Satisfies 22-queen(s) problem? -> No
+Total Possible Configurations for 22-queen(s): 6.3887 x 10^37 configurations
+
+Case 11:
+Satisfies 9-queen(s) problem? -> No
+Total Possible Configurations for 9-queen(s): 2.6089 x 10^11 configurations
+
+Case 12:
+Satisfies 18-queen(s) problem? -> No
+Total Possible Configurations for 18-queen(s): 1.4948 x 10^29 configurations
+
+Case 13:
+Satisfies 7-queen(s) problem? -> No
+Total Possible Configurations for 7-queen(s): 85900584 configurations
+
+Case 14:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 15:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 16:
+Satisfies 8-queen(s) problem? -> Yes
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 17:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 18:
+Satisfies 18-queen(s) problem? -> No
+Total Possible Configurations for 18-queen(s): 1.4948 x 10^29 configurations
+
+Case 19:
+Satisfies 6-queen(s) problem? -> No
+Total Possible Configurations for 6-queen(s): 1947792 configurations
+
+Case 20:
+Satisfies 16-queen(s) problem? -> No
+Total Possible Configurations for 16-queen(s): 1.0079 x 10^25 configurations
+
+Case 21:
+Satisfies 14-queen(s) problem? -> No
+Total Possible Configurations for 14-queen(s): 8.8053 x 10^20 configurations
+
+Case 22:
+Satisfies 11-queen(s) problem? -> No
+Total Possible Configurations for 11-queen(s): 1.2767 x 10^15 configurations
+
+Case 23:
+Satisfies 3-queen(s) problem? -> No
+Total Possible Configurations for 3-queen(s): 84 configurations
+
+Case 24:
+Satisfies 17-queen(s) problem? -> No
+Total Possible Configurations for 17-queen(s): 1.1907 x 10^27 configurations
+
+Case 25:
+Satisfies 3-queen(s) problem? -> No
+Total Possible Configurations for 3-queen(s): 84 configurations
+
+Case 26:
+Satisfies 6-queen(s) problem? -> No
+Total Possible Configurations for 6-queen(s): 1947792 configurations
+
+Case 27:
+Satisfies 25-queen(s) problem? -> No
+Total Possible Configurations for 25-queen(s): 3.1269 x 10^44 configurations
+
+Case 28:
+Satisfies 18-queen(s) problem? -> No
+Total Possible Configurations for 18-queen(s): 1.4948 x 10^29 configurations
+
+Case 29:
+Satisfies 8-queen(s) problem? -> Yes
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 30:
+Satisfies 5-queen(s) problem? -> No
+Total Possible Configurations for 5-queen(s): 53130 configurations
+
+Case 31:
+Satisfies 12-queen(s) problem? -> No
+Total Possible Configurations for 12-queen(s): 1.0362 x 10^17 configurations
+
+Case 32:
+Satisfies 21-queen(s) problem? -> No
+Total Possible Configurations for 21-queen(s): 4.1189 x 10^35 configurations
+
+Case 33:
+Satisfies 8-queen(s) problem? -> Yes
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 34:
+Satisfies 23-queen(s) problem? -> No
+Total Possible Configurations for 23-queen(s): 1.0382 x 10^40 configurations
+
+Case 35:
+Satisfies 2-queen(s) problem? -> No
+Total Possible Configurations for 2-queen(s): 6 configurations
+
+Case 36:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 37:
+Satisfies 11-queen(s) problem? -> No
+Total Possible Configurations for 11-queen(s): 1.2767 x 10^15 configurations
+
+Case 38:
+Satisfies 6-queen(s) problem? -> No
+Total Possible Configurations for 6-queen(s): 1947792 configurations
+
+Case 39:
+Satisfies 7-queen(s) problem? -> No
+Total Possible Configurations for 7-queen(s): 85900584 configurations
+
+Case 40:
+Satisfies 16-queen(s) problem? -> No
+Total Possible Configurations for 16-queen(s): 1.0079 x 10^25 configurations
+
+Case 41:
+Satisfies 23-queen(s) problem? -> No
+Total Possible Configurations for 23-queen(s): 1.0382 x 10^40 configurations
+
+Case 42:
+Satisfies 22-queen(s) problem? -> No
+Total Possible Configurations for 22-queen(s): 6.3887 x 10^37 configurations
+
+Case 43:
+Satisfies 2-queen(s) problem? -> No
+Total Possible Configurations for 2-queen(s): 6 configurations
+
+Case 44:
+Satisfies 14-queen(s) problem? -> No
+Total Possible Configurations for 14-queen(s): 8.8053 x 10^20 configurations
+
+Case 45:
+Satisfies 8-queen(s) problem? -> No
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 46:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 47:
+Satisfies 21-queen(s) problem? -> No
+Total Possible Configurations for 21-queen(s): 4.1189 x 10^35 configurations
+
+Case 48:
+Satisfies 21-queen(s) problem? -> No
+Total Possible Configurations for 21-queen(s): 4.1189 x 10^35 configurations
+
+Case 49:
+Satisfies 17-queen(s) problem? -> No
+Total Possible Configurations for 17-queen(s): 1.1907 x 10^27 configurations
+
+Case 50:
+Satisfies 6-queen(s) problem? -> No
+Total Possible Configurations for 6-queen(s): 1947792 configurations
+
+Case 51:
+Satisfies 8-queen(s) problem? -> Yes
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 52:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 53:
+Satisfies 25-queen(s) problem? -> No
+Total Possible Configurations for 25-queen(s): 3.1269 x 10^44 configurations
+
+Case 54:
+Satisfies 14-queen(s) problem? -> No
+Total Possible Configurations for 14-queen(s): 8.8053 x 10^20 configurations
+
+Case 55:
+Satisfies 17-queen(s) problem? -> No
+Total Possible Configurations for 17-queen(s): 1.1907 x 10^27 configurations
+
+Case 56:
+Satisfies 7-queen(s) problem? -> No
+Total Possible Configurations for 7-queen(s): 85900584 configurations
+
+Case 57:
+Satisfies 9-queen(s) problem? -> No
+Total Possible Configurations for 9-queen(s): 2.6089 x 10^11 configurations
+
+Case 58:
+Satisfies 23-queen(s) problem? -> No
+Total Possible Configurations for 23-queen(s): 1.0382 x 10^40 configurations
+
+Case 59:
+Satisfies 12-queen(s) problem? -> No
+Total Possible Configurations for 12-queen(s): 1.0362 x 10^17 configurations
+
+Case 60:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 61:
+Satisfies 7-queen(s) problem? -> No
+Total Possible Configurations for 7-queen(s): 85900584 configurations
+
+Case 62:
+Satisfies 17-queen(s) problem? -> No
+Total Possible Configurations for 17-queen(s): 1.1907 x 10^27 configurations
+
+Case 63:
+Satisfies 18-queen(s) problem? -> No
+Total Possible Configurations for 18-queen(s): 1.4948 x 10^29 configurations
+
+Case 64:
+Satisfies 1-queen(s) problem? -> Yes
+Total Possible Configurations for 1-queen(s): 1 configurations
+
+Case 65:
+Satisfies 15-queen(s) problem? -> No
+Total Possible Configurations for 15-queen(s): 9.1006 x 10^22 configurations
+
+Case 66:
+Satisfies 25-queen(s) problem? -> No
+Total Possible Configurations for 25-queen(s): 3.1269 x 10^44 configurations
+
+Case 67:
+Satisfies 5-queen(s) problem? -> No
+Total Possible Configurations for 5-queen(s): 53130 configurations
+
+Case 68:
+Satisfies 7-queen(s) problem? -> No
+Total Possible Configurations for 7-queen(s): 85900584 configurations
+
+Case 69:
+Satisfies 13-queen(s) problem? -> No
+Total Possible Configurations for 13-queen(s): 9.1764 x 10^18 configurations
+
+Case 70:
+Satisfies 8-queen(s) problem? -> No
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 71:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 72:
+Satisfies 8-queen(s) problem? -> No
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 73:
+Satisfies 4-queen(s) problem? -> No
+Total Possible Configurations for 4-queen(s): 1820 configurations
+
+Case 74:
+Satisfies 8-queen(s) problem? -> Yes
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 75:
+Satisfies 15-queen(s) problem? -> No
+Total Possible Configurations for 15-queen(s): 9.1006 x 10^22 configurations
+
+Case 76:
+Satisfies 23-queen(s) problem? -> No
+Total Possible Configurations for 23-queen(s): 1.0382 x 10^40 configurations
+
+Case 77:
+Satisfies 3-queen(s) problem? -> No
+Total Possible Configurations for 3-queen(s): 84 configurations
+
+Case 78:
+Satisfies 13-queen(s) problem? -> No
+Total Possible Configurations for 13-queen(s): 9.1764 x 10^18 configurations
+
+Case 79:
+Satisfies 1-queen(s) problem? -> Yes
+Total Possible Configurations for 1-queen(s): 1 configurations
+
+Case 80:
+Satisfies 14-queen(s) problem? -> No
+Total Possible Configurations for 14-queen(s): 8.8053 x 10^20 configurations
+
+Case 81:
+Satisfies 22-queen(s) problem? -> No
+Total Possible Configurations for 22-queen(s): 6.3887 x 10^37 configurations
+
+Case 82:
+Satisfies 3-queen(s) problem? -> No
+Total Possible Configurations for 3-queen(s): 84 configurations
+
+Case 83:
+Satisfies 2-queen(s) problem? -> No
+Total Possible Configurations for 2-queen(s): 6 configurations
+
+Case 84:
+Satisfies 12-queen(s) problem? -> No
+Total Possible Configurations for 12-queen(s): 1.0362 x 10^17 configurations
+
+Case 85:
+Satisfies 11-queen(s) problem? -> No
+Total Possible Configurations for 11-queen(s): 1.2767 x 10^15 configurations
+
+Case 86:
+Satisfies 1-queen(s) problem? -> Yes
+Total Possible Configurations for 1-queen(s): 1 configurations
+
+Case 87:
+Satisfies 11-queen(s) problem? -> No
+Total Possible Configurations for 11-queen(s): 1.2767 x 10^15 configurations
+
+Case 88:
+Satisfies 2-queen(s) problem? -> No
+Total Possible Configurations for 2-queen(s): 6 configurations
+
+Case 89:
+Satisfies 7-queen(s) problem? -> No
+Total Possible Configurations for 7-queen(s): 85900584 configurations
+
+Case 90:
+Satisfies 3-queen(s) problem? -> No
+Total Possible Configurations for 3-queen(s): 84 configurations
+
+Case 91:
+Satisfies 9-queen(s) problem? -> No
+Total Possible Configurations for 9-queen(s): 2.6089 x 10^11 configurations
+
+Case 92:
+Satisfies 15-queen(s) problem? -> No
+Total Possible Configurations for 15-queen(s): 9.1006 x 10^22 configurations
+
+Case 93:
+Satisfies 2-queen(s) problem? -> No
+Total Possible Configurations for 2-queen(s): 6 configurations
+
+Case 94:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 95:
+Satisfies 9-queen(s) problem? -> No
+Total Possible Configurations for 9-queen(s): 2.6089 x 10^11 configurations
+
+Case 96:
+Satisfies 18-queen(s) problem? -> No
+Total Possible Configurations for 18-queen(s): 1.4948 x 10^29 configurations
+
+Case 97:
+Satisfies 12-queen(s) problem? -> No
+Total Possible Configurations for 12-queen(s): 1.0362 x 10^17 configurations
+
+Case 98:
+Satisfies 10-queen(s) problem? -> No
+Total Possible Configurations for 10-queen(s): 1.7310 x 10^13 configurations
+
+Case 99:
+Satisfies 21-queen(s) problem? -> No
+Total Possible Configurations for 21-queen(s): 4.1189 x 10^35 configurations
+
+Case 100:
+Satisfies 25-queen(s) problem? -> No
+Total Possible Configurations for 25-queen(s): 3.1269 x 10^44 configurations
+
+Case 101:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 102:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 103:
+Satisfies 25-queen(s) problem? -> No
+Total Possible Configurations for 25-queen(s): 3.1269 x 10^44 configurations
+
+Case 104:
+Satisfies 18-queen(s) problem? -> No
+Total Possible Configurations for 18-queen(s): 1.4948 x 10^29 configurations
+
+Case 105:
+Satisfies 17-queen(s) problem? -> No
+Total Possible Configurations for 17-queen(s): 1.1907 x 10^27 configurations
+
+Case 106:
+Satisfies 17-queen(s) problem? -> No
+Total Possible Configurations for 17-queen(s): 1.1907 x 10^27 configurations
+
+Case 107:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 108:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 109:
+Satisfies 5-queen(s) problem? -> No
+Total Possible Configurations for 5-queen(s): 53130 configurations
+
+Case 110:
+Satisfies 7-queen(s) problem? -> No
+Total Possible Configurations for 7-queen(s): 85900584 configurations
+
+Case 111:
+Satisfies 8-queen(s) problem? -> Yes
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 112:
+Satisfies 15-queen(s) problem? -> No
+Total Possible Configurations for 15-queen(s): 9.1006 x 10^22 configurations
+
+Case 113:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 114:
+Satisfies 1-queen(s) problem? -> Yes
+Total Possible Configurations for 1-queen(s): 1 configurations
+
+Case 115:
+Satisfies 15-queen(s) problem? -> No
+Total Possible Configurations for 15-queen(s): 9.1006 x 10^22 configurations
+
+Case 116:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 117:
+Satisfies 18-queen(s) problem? -> No
+Total Possible Configurations for 18-queen(s): 1.4948 x 10^29 configurations
+
+Case 118:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 119:
+Satisfies 11-queen(s) problem? -> No
+Total Possible Configurations for 11-queen(s): 1.2767 x 10^15 configurations
+
+Case 120:
+Satisfies 11-queen(s) problem? -> No
+Total Possible Configurations for 11-queen(s): 1.2767 x 10^15 configurations
+
+Case 121:
+Satisfies 11-queen(s) problem? -> No
+Total Possible Configurations for 11-queen(s): 1.2767 x 10^15 configurations
+
+Case 122:
+Satisfies 2-queen(s) problem? -> No
+Total Possible Configurations for 2-queen(s): 6 configurations
+
+Case 123:
+Satisfies 13-queen(s) problem? -> No
+Total Possible Configurations for 13-queen(s): 9.1764 x 10^18 configurations
+
+Case 124:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 125:
+Satisfies 17-queen(s) problem? -> No
+Total Possible Configurations for 17-queen(s): 1.1907 x 10^27 configurations
+
+Case 126:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 127:
+Satisfies 8-queen(s) problem? -> No
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 128:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 129:
+Satisfies 11-queen(s) problem? -> No
+Total Possible Configurations for 11-queen(s): 1.2767 x 10^15 configurations
+
+Case 130:
+Satisfies 10-queen(s) problem? -> No
+Total Possible Configurations for 10-queen(s): 1.7310 x 10^13 configurations
+
+Case 131:
+Satisfies 8-queen(s) problem? -> No
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 132:
+Satisfies 11-queen(s) problem? -> No
+Total Possible Configurations for 11-queen(s): 1.2767 x 10^15 configurations
+
+Case 133:
+Satisfies 8-queen(s) problem? -> No
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 134:
+Satisfies 8-queen(s) problem? -> No
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 135:
+Satisfies 10-queen(s) problem? -> No
+Total Possible Configurations for 10-queen(s): 1.7310 x 10^13 configurations
+
+Case 136:
+Satisfies 15-queen(s) problem? -> No
+Total Possible Configurations for 15-queen(s): 9.1006 x 10^22 configurations
+
+Case 137:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 138:
+Satisfies 22-queen(s) problem? -> No
+Total Possible Configurations for 22-queen(s): 6.3887 x 10^37 configurations
+
+Case 139:
+Satisfies 10-queen(s) problem? -> No
+Total Possible Configurations for 10-queen(s): 1.7310 x 10^13 configurations
+
+Case 140:
+Satisfies 17-queen(s) problem? -> No
+Total Possible Configurations for 17-queen(s): 1.1907 x 10^27 configurations
+
+Case 141:
+Satisfies 13-queen(s) problem? -> No
+Total Possible Configurations for 13-queen(s): 9.1764 x 10^18 configurations
+
+Case 142:
+Satisfies 25-queen(s) problem? -> No
+Total Possible Configurations for 25-queen(s): 3.1269 x 10^44 configurations
+
+Case 143:
+Satisfies 15-queen(s) problem? -> No
+Total Possible Configurations for 15-queen(s): 9.1006 x 10^22 configurations
+
+Case 144:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 145:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 146:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 147:
+Satisfies 12-queen(s) problem? -> No
+Total Possible Configurations for 12-queen(s): 1.0362 x 10^17 configurations
+
+Case 148:
+Satisfies 25-queen(s) problem? -> No
+Total Possible Configurations for 25-queen(s): 3.1269 x 10^44 configurations
+
+Case 149:
+Satisfies 7-queen(s) problem? -> No
+Total Possible Configurations for 7-queen(s): 85900584 configurations
+
+Case 150:
+Satisfies 9-queen(s) problem? -> No
+Total Possible Configurations for 9-queen(s): 2.6089 x 10^11 configurations
+
+Case 151:
+Satisfies 6-queen(s) problem? -> No
+Total Possible Configurations for 6-queen(s): 1947792 configurations
+
+Case 152:
+Satisfies 8-queen(s) problem? -> No
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 153:
+Satisfies 3-queen(s) problem? -> No
+Total Possible Configurations for 3-queen(s): 84 configurations
+
+Case 154:
+Satisfies 23-queen(s) problem? -> No
+Total Possible Configurations for 23-queen(s): 1.0382 x 10^40 configurations
+
+Case 155:
+Satisfies 2-queen(s) problem? -> No
+Total Possible Configurations for 2-queen(s): 6 configurations
+
+Case 156:
+Satisfies 12-queen(s) problem? -> No
+Total Possible Configurations for 12-queen(s): 1.0362 x 10^17 configurations
+
+Case 157:
+Satisfies 7-queen(s) problem? -> No
+Total Possible Configurations for 7-queen(s): 85900584 configurations
+
+Case 158:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 159:
+Satisfies 4-queen(s) problem? -> No
+Total Possible Configurations for 4-queen(s): 1820 configurations
+
+Case 160:
+Satisfies 3-queen(s) problem? -> No
+Total Possible Configurations for 3-queen(s): 84 configurations
+
+Case 161:
+Satisfies 17-queen(s) problem? -> No
+Total Possible Configurations for 17-queen(s): 1.1907 x 10^27 configurations
+
+Case 162:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 163:
+Satisfies 7-queen(s) problem? -> No
+Total Possible Configurations for 7-queen(s): 85900584 configurations
+
+Case 164:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 165:
+Satisfies 3-queen(s) problem? -> No
+Total Possible Configurations for 3-queen(s): 84 configurations
+
+Case 166:
+Satisfies 10-queen(s) problem? -> No
+Total Possible Configurations for 10-queen(s): 1.7310 x 10^13 configurations
+
+Case 167:
+Satisfies 1-queen(s) problem? -> Yes
+Total Possible Configurations for 1-queen(s): 1 configurations
+
+Case 168:
+Satisfies 10-queen(s) problem? -> No
+Total Possible Configurations for 10-queen(s): 1.7310 x 10^13 configurations
+
+Case 169:
+Satisfies 4-queen(s) problem? -> No
+Total Possible Configurations for 4-queen(s): 1820 configurations
+
+Case 170:
+Satisfies 8-queen(s) problem? -> No
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 171:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 172:
+Satisfies 25-queen(s) problem? -> No
+Total Possible Configurations for 25-queen(s): 3.1269 x 10^44 configurations
+
+Case 173:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 174:
+Satisfies 10-queen(s) problem? -> No
+Total Possible Configurations for 10-queen(s): 1.7310 x 10^13 configurations
+
+Case 175:
+Satisfies 11-queen(s) problem? -> No
+Total Possible Configurations for 11-queen(s): 1.2767 x 10^15 configurations
+
+Case 176:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 177:
+Satisfies 22-queen(s) problem? -> No
+Total Possible Configurations for 22-queen(s): 6.3887 x 10^37 configurations
+
+Case 178:
+Satisfies 12-queen(s) problem? -> No
+Total Possible Configurations for 12-queen(s): 1.0362 x 10^17 configurations
+
+Case 179:
+Satisfies 7-queen(s) problem? -> No
+Total Possible Configurations for 7-queen(s): 85900584 configurations
+
+Case 180:
+Satisfies 10-queen(s) problem? -> No
+Total Possible Configurations for 10-queen(s): 1.7310 x 10^13 configurations
+
+Case 181:
+Satisfies 6-queen(s) problem? -> No
+Total Possible Configurations for 6-queen(s): 1947792 configurations
+
+Case 182:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 183:
+Satisfies 12-queen(s) problem? -> No
+Total Possible Configurations for 12-queen(s): 1.0362 x 10^17 configurations
+
+Case 184:
+Satisfies 8-queen(s) problem? -> Yes
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 185:
+Satisfies 8-queen(s) problem? -> No
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 186:
+Satisfies 15-queen(s) problem? -> No
+Total Possible Configurations for 15-queen(s): 9.1006 x 10^22 configurations
+
+Case 187:
+Satisfies 18-queen(s) problem? -> No
+Total Possible Configurations for 18-queen(s): 1.4948 x 10^29 configurations
+
+Case 188:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 189:
+Satisfies 3-queen(s) problem? -> No
+Total Possible Configurations for 3-queen(s): 84 configurations
+
+Case 190:
+Satisfies 1-queen(s) problem? -> Yes
+Total Possible Configurations for 1-queen(s): 1 configurations
+
+Case 191:
+Satisfies 13-queen(s) problem? -> No
+Total Possible Configurations for 13-queen(s): 9.1764 x 10^18 configurations
+
+Case 192:
+Satisfies 22-queen(s) problem? -> No
+Total Possible Configurations for 22-queen(s): 6.3887 x 10^37 configurations
+
+Case 193:
+Satisfies 3-queen(s) problem? -> No
+Total Possible Configurations for 3-queen(s): 84 configurations
+
+Case 194:
+Satisfies 23-queen(s) problem? -> No
+Total Possible Configurations for 23-queen(s): 1.0382 x 10^40 configurations
+
+Case 195:
+Satisfies 3-queen(s) problem? -> No
+Total Possible Configurations for 3-queen(s): 84 configurations
+
+Case 196:
+Satisfies 8-queen(s) problem? -> No
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 197:
+Satisfies 1-queen(s) problem? -> Yes
+Total Possible Configurations for 1-queen(s): 1 configurations
+
+Case 198:
+Satisfies 10-queen(s) problem? -> No
+Total Possible Configurations for 10-queen(s): 1.7310 x 10^13 configurations
+
+Case 199:
+Satisfies 9-queen(s) problem? -> No
+Total Possible Configurations for 9-queen(s): 2.6089 x 10^11 configurations
+
+Case 200:
+Satisfies 3-queen(s) problem? -> No
+Total Possible Configurations for 3-queen(s): 84 configurations
+
+Case 201:
+Satisfies 15-queen(s) problem? -> No
+Total Possible Configurations for 15-queen(s): 9.1006 x 10^22 configurations
+
+Case 202:
+Satisfies 21-queen(s) problem? -> No
+Total Possible Configurations for 21-queen(s): 4.1189 x 10^35 configurations
+
+Case 203:
+Satisfies 2-queen(s) problem? -> No
+Total Possible Configurations for 2-queen(s): 6 configurations
+
+Case 204:
+Satisfies 23-queen(s) problem? -> No
+Total Possible Configurations for 23-queen(s): 1.0382 x 10^40 configurations
+
+Case 205:
+Satisfies 18-queen(s) problem? -> No
+Total Possible Configurations for 18-queen(s): 1.4948 x 10^29 configurations
+
+Case 206:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 207:
+Satisfies 13-queen(s) problem? -> No
+Total Possible Configurations for 13-queen(s): 9.1764 x 10^18 configurations
+
+Case 208:
+Satisfies 17-queen(s) problem? -> No
+Total Possible Configurations for 17-queen(s): 1.1907 x 10^27 configurations
+
+Case 209:
+Satisfies 15-queen(s) problem? -> No
+Total Possible Configurations for 15-queen(s): 9.1006 x 10^22 configurations
+
+Case 210:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 211:
+Satisfies 7-queen(s) problem? -> No
+Total Possible Configurations for 7-queen(s): 85900584 configurations
+
+Case 212:
+Satisfies 9-queen(s) problem? -> No
+Total Possible Configurations for 9-queen(s): 2.6089 x 10^11 configurations
+
+Case 213:
+Satisfies 4-queen(s) problem? -> No
+Total Possible Configurations for 4-queen(s): 1820 configurations
+
+Case 214:
+Satisfies 12-queen(s) problem? -> No
+Total Possible Configurations for 12-queen(s): 1.0362 x 10^17 configurations
+
+Case 215:
+Satisfies 23-queen(s) problem? -> No
+Total Possible Configurations for 23-queen(s): 1.0382 x 10^40 configurations
+
+Case 216:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 217:
+Satisfies 22-queen(s) problem? -> No
+Total Possible Configurations for 22-queen(s): 6.3887 x 10^37 configurations
+
+Case 218:
+Satisfies 18-queen(s) problem? -> No
+Total Possible Configurations for 18-queen(s): 1.4948 x 10^29 configurations
+
+Case 219:
+Satisfies 5-queen(s) problem? -> No
+Total Possible Configurations for 5-queen(s): 53130 configurations
+
+Case 220:
+Satisfies 2-queen(s) problem? -> No
+Total Possible Configurations for 2-queen(s): 6 configurations
+
+Case 221:
+Satisfies 1-queen(s) problem? -> Yes
+Total Possible Configurations for 1-queen(s): 1 configurations
+
+Case 222:
+Satisfies 4-queen(s) problem? -> No
+Total Possible Configurations for 4-queen(s): 1820 configurations
+
+Case 223:
+Satisfies 8-queen(s) problem? -> Yes
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 224:
+Satisfies 17-queen(s) problem? -> No
+Total Possible Configurations for 17-queen(s): 1.1907 x 10^27 configurations
+
+Case 225:
+Satisfies 18-queen(s) problem? -> No
+Total Possible Configurations for 18-queen(s): 1.4948 x 10^29 configurations
+
+Case 226:
+Satisfies 14-queen(s) problem? -> No
+Total Possible Configurations for 14-queen(s): 8.8053 x 10^20 configurations
+
+Case 227:
+Satisfies 12-queen(s) problem? -> No
+Total Possible Configurations for 12-queen(s): 1.0362 x 10^17 configurations
+
+Case 228:
+Satisfies 1-queen(s) problem? -> Yes
+Total Possible Configurations for 1-queen(s): 1 configurations
+
+Case 229:
+Satisfies 11-queen(s) problem? -> No
+Total Possible Configurations for 11-queen(s): 1.2767 x 10^15 configurations
+
+Case 230:
+Satisfies 6-queen(s) problem? -> No
+Total Possible Configurations for 6-queen(s): 1947792 configurations
+
+Case 231:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 232:
+Satisfies 22-queen(s) problem? -> No
+Total Possible Configurations for 22-queen(s): 6.3887 x 10^37 configurations
+
+Case 233:
+Satisfies 25-queen(s) problem? -> No
+Total Possible Configurations for 25-queen(s): 3.1269 x 10^44 configurations
+
+Case 234:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 235:
+Satisfies 14-queen(s) problem? -> No
+Total Possible Configurations for 14-queen(s): 8.8053 x 10^20 configurations
+
+Case 236:
+Satisfies 6-queen(s) problem? -> No
+Total Possible Configurations for 6-queen(s): 1947792 configurations
+
+Case 237:
+Satisfies 3-queen(s) problem? -> No
+Total Possible Configurations for 3-queen(s): 84 configurations
+
+Case 238:
+Satisfies 16-queen(s) problem? -> No
+Total Possible Configurations for 16-queen(s): 1.0079 x 10^25 configurations
+
+Case 239:
+Satisfies 15-queen(s) problem? -> No
+Total Possible Configurations for 15-queen(s): 9.1006 x 10^22 configurations
+
+Case 240:
+Satisfies 13-queen(s) problem? -> No
+Total Possible Configurations for 13-queen(s): 9.1764 x 10^18 configurations
+
+Case 241:
+Satisfies 17-queen(s) problem? -> No
+Total Possible Configurations for 17-queen(s): 1.1907 x 10^27 configurations
+
+Case 242:
+Satisfies 18-queen(s) problem? -> No
+Total Possible Configurations for 18-queen(s): 1.4948 x 10^29 configurations
+
+Case 243:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 244:
+Satisfies 2-queen(s) problem? -> No
+Total Possible Configurations for 2-queen(s): 6 configurations
+
+Case 245:
+Satisfies 2-queen(s) problem? -> No
+Total Possible Configurations for 2-queen(s): 6 configurations
+
+Case 246:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 247:
+Satisfies 1-queen(s) problem? -> Yes
+Total Possible Configurations for 1-queen(s): 1 configurations
+
+Case 248:
+Satisfies 9-queen(s) problem? -> No
+Total Possible Configurations for 9-queen(s): 2.6089 x 10^11 configurations
+
+Case 249:
+Satisfies 6-queen(s) problem? -> No
+Total Possible Configurations for 6-queen(s): 1947792 configurations
+
+Case 250:
+Satisfies 23-queen(s) problem? -> No
+Total Possible Configurations for 23-queen(s): 1.0382 x 10^40 configurations
+
+Case 251:
+Satisfies 22-queen(s) problem? -> No
+Total Possible Configurations for 22-queen(s): 6.3887 x 10^37 configurations
+
+Case 252:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 253:
+Satisfies 7-queen(s) problem? -> No
+Total Possible Configurations for 7-queen(s): 85900584 configurations
+
+Case 254:
+Satisfies 7-queen(s) problem? -> No
+Total Possible Configurations for 7-queen(s): 85900584 configurations
+
+Case 255:
+Satisfies 25-queen(s) problem? -> No
+Total Possible Configurations for 25-queen(s): 3.1269 x 10^44 configurations
+
+Case 256:
+Satisfies 16-queen(s) problem? -> No
+Total Possible Configurations for 16-queen(s): 1.0079 x 10^25 configurations
+
+Case 257:
+Satisfies 8-queen(s) problem? -> No
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 258:
+Satisfies 14-queen(s) problem? -> No
+Total Possible Configurations for 14-queen(s): 8.8053 x 10^20 configurations
+
+Case 259:
+Satisfies 4-queen(s) problem? -> No
+Total Possible Configurations for 4-queen(s): 1820 configurations
+
+Case 260:
+Satisfies 6-queen(s) problem? -> No
+Total Possible Configurations for 6-queen(s): 1947792 configurations
+
+Case 261:
+Satisfies 2-queen(s) problem? -> No
+Total Possible Configurations for 2-queen(s): 6 configurations
+
+Case 262:
+Satisfies 12-queen(s) problem? -> No
+Total Possible Configurations for 12-queen(s): 1.0362 x 10^17 configurations
+
+Case 263:
+Satisfies 2-queen(s) problem? -> No
+Total Possible Configurations for 2-queen(s): 6 configurations
+
+Case 264:
+Satisfies 11-queen(s) problem? -> No
+Total Possible Configurations for 11-queen(s): 1.2767 x 10^15 configurations
+
+Case 265:
+Satisfies 8-queen(s) problem? -> Yes
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 266:
+Satisfies 16-queen(s) problem? -> No
+Total Possible Configurations for 16-queen(s): 1.0079 x 10^25 configurations
+
+Case 267:
+Satisfies 13-queen(s) problem? -> No
+Total Possible Configurations for 13-queen(s): 9.1764 x 10^18 configurations
+
+Case 268:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 269:
+Satisfies 18-queen(s) problem? -> No
+Total Possible Configurations for 18-queen(s): 1.4948 x 10^29 configurations
+
+Case 270:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 271:
+Satisfies 12-queen(s) problem? -> No
+Total Possible Configurations for 12-queen(s): 1.0362 x 10^17 configurations
+
+Case 272:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 273:
+Satisfies 15-queen(s) problem? -> No
+Total Possible Configurations for 15-queen(s): 9.1006 x 10^22 configurations
+
+Case 274:
+Satisfies 21-queen(s) problem? -> No
+Total Possible Configurations for 21-queen(s): 4.1189 x 10^35 configurations
+
+Case 275:
+Satisfies 9-queen(s) problem? -> No
+Total Possible Configurations for 9-queen(s): 2.6089 x 10^11 configurations
+
+Case 276:
+Satisfies 15-queen(s) problem? -> No
+Total Possible Configurations for 15-queen(s): 9.1006 x 10^22 configurations
+
+Case 277:
+Satisfies 18-queen(s) problem? -> No
+Total Possible Configurations for 18-queen(s): 1.4948 x 10^29 configurations
+
+Case 278:
+Satisfies 6-queen(s) problem? -> No
+Total Possible Configurations for 6-queen(s): 1947792 configurations
+
+Case 279:
+Satisfies 14-queen(s) problem? -> No
+Total Possible Configurations for 14-queen(s): 8.8053 x 10^20 configurations
+
+Case 280:
+Satisfies 17-queen(s) problem? -> No
+Total Possible Configurations for 17-queen(s): 1.1907 x 10^27 configurations
+
+Case 281:
+Satisfies 3-queen(s) problem? -> No
+Total Possible Configurations for 3-queen(s): 84 configurations
+
+Case 282:
+Satisfies 23-queen(s) problem? -> No
+Total Possible Configurations for 23-queen(s): 1.0382 x 10^40 configurations
+
+Case 283:
+Satisfies 15-queen(s) problem? -> No
+Total Possible Configurations for 15-queen(s): 9.1006 x 10^22 configurations
+
+Case 284:
+Satisfies 5-queen(s) problem? -> No
+Total Possible Configurations for 5-queen(s): 53130 configurations
+
+Case 285:
+Satisfies 4-queen(s) problem? -> No
+Total Possible Configurations for 4-queen(s): 1820 configurations
+
+Case 286:
+Satisfies 21-queen(s) problem? -> No
+Total Possible Configurations for 21-queen(s): 4.1189 x 10^35 configurations
+
+Case 287:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 288:
+Satisfies 6-queen(s) problem? -> No
+Total Possible Configurations for 6-queen(s): 1947792 configurations
+
+Case 289:
+Satisfies 21-queen(s) problem? -> No
+Total Possible Configurations for 21-queen(s): 4.1189 x 10^35 configurations
+
+Case 290:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 291:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 292:
+Satisfies 14-queen(s) problem? -> No
+Total Possible Configurations for 14-queen(s): 8.8053 x 10^20 configurations
+
+Case 293:
+Satisfies 15-queen(s) problem? -> No
+Total Possible Configurations for 15-queen(s): 9.1006 x 10^22 configurations
+
+Case 294:
+Satisfies 17-queen(s) problem? -> No
+Total Possible Configurations for 17-queen(s): 1.1907 x 10^27 configurations
+
+Case 295:
+Satisfies 21-queen(s) problem? -> No
+Total Possible Configurations for 21-queen(s): 4.1189 x 10^35 configurations
+
+Case 296:
+Satisfies 14-queen(s) problem? -> No
+Total Possible Configurations for 14-queen(s): 8.8053 x 10^20 configurations
+
+Case 297:
+Satisfies 1-queen(s) problem? -> Yes
+Total Possible Configurations for 1-queen(s): 1 configurations
+
+Case 298:
+Satisfies 3-queen(s) problem? -> No
+Total Possible Configurations for 3-queen(s): 84 configurations
+
+Case 299:
+Satisfies 22-queen(s) problem? -> No
+Total Possible Configurations for 22-queen(s): 6.3887 x 10^37 configurations
+
+Case 300:
+Satisfies 17-queen(s) problem? -> No
+Total Possible Configurations for 17-queen(s): 1.1907 x 10^27 configurations
+
+Case 301:
+Satisfies 8-queen(s) problem? -> Yes
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 302:
+Satisfies 21-queen(s) problem? -> No
+Total Possible Configurations for 21-queen(s): 4.1189 x 10^35 configurations
+
+Case 303:
+Satisfies 5-queen(s) problem? -> No
+Total Possible Configurations for 5-queen(s): 53130 configurations
+
+Case 304:
+Satisfies 4-queen(s) problem? -> No
+Total Possible Configurations for 4-queen(s): 1820 configurations
+
+Case 305:
+Satisfies 8-queen(s) problem? -> No
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 306:
+Satisfies 8-queen(s) problem? -> No
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 307:
+Satisfies 21-queen(s) problem? -> No
+Total Possible Configurations for 21-queen(s): 4.1189 x 10^35 configurations
+
+Case 308:
+Satisfies 3-queen(s) problem? -> No
+Total Possible Configurations for 3-queen(s): 84 configurations
+
+Case 309:
+Satisfies 12-queen(s) problem? -> No
+Total Possible Configurations for 12-queen(s): 1.0362 x 10^17 configurations
+
+Case 310:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 311:
+Satisfies 7-queen(s) problem? -> No
+Total Possible Configurations for 7-queen(s): 85900584 configurations
+
+Case 312:
+Satisfies 1-queen(s) problem? -> Yes
+Total Possible Configurations for 1-queen(s): 1 configurations
+
+Case 313:
+Satisfies 17-queen(s) problem? -> No
+Total Possible Configurations for 17-queen(s): 1.1907 x 10^27 configurations
+
+Case 314:
+Satisfies 8-queen(s) problem? -> No
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 315:
+Satisfies 1-queen(s) problem? -> Yes
+Total Possible Configurations for 1-queen(s): 1 configurations
+
+Case 316:
+Satisfies 18-queen(s) problem? -> No
+Total Possible Configurations for 18-queen(s): 1.4948 x 10^29 configurations
+
+Case 317:
+Satisfies 10-queen(s) problem? -> No
+Total Possible Configurations for 10-queen(s): 1.7310 x 10^13 configurations
+
+Case 318:
+Satisfies 3-queen(s) problem? -> No
+Total Possible Configurations for 3-queen(s): 84 configurations
+
+Case 319:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 320:
+Satisfies 1-queen(s) problem? -> Yes
+Total Possible Configurations for 1-queen(s): 1 configurations
+
+Case 321:
+Satisfies 3-queen(s) problem? -> No
+Total Possible Configurations for 3-queen(s): 84 configurations
+
+Case 322:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 323:
+Satisfies 14-queen(s) problem? -> No
+Total Possible Configurations for 14-queen(s): 8.8053 x 10^20 configurations
+
+Case 324:
+Satisfies 8-queen(s) problem? -> Yes
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 325:
+Satisfies 15-queen(s) problem? -> No
+Total Possible Configurations for 15-queen(s): 9.1006 x 10^22 configurations
+
+Case 326:
+Satisfies 17-queen(s) problem? -> No
+Total Possible Configurations for 17-queen(s): 1.1907 x 10^27 configurations
+
+Case 327:
+Satisfies 7-queen(s) problem? -> No
+Total Possible Configurations for 7-queen(s): 85900584 configurations
+
+Case 328:
+Satisfies 13-queen(s) problem? -> No
+Total Possible Configurations for 13-queen(s): 9.1764 x 10^18 configurations
+
+Case 329:
+Satisfies 21-queen(s) problem? -> No
+Total Possible Configurations for 21-queen(s): 4.1189 x 10^35 configurations
+
+Case 330:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 331:
+Satisfies 13-queen(s) problem? -> No
+Total Possible Configurations for 13-queen(s): 9.1764 x 10^18 configurations
+
+Case 332:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 333:
+Satisfies 7-queen(s) problem? -> No
+Total Possible Configurations for 7-queen(s): 85900584 configurations
+
+Case 334:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 335:
+Satisfies 13-queen(s) problem? -> No
+Total Possible Configurations for 13-queen(s): 9.1764 x 10^18 configurations
+
+Case 336:
+Satisfies 6-queen(s) problem? -> No
+Total Possible Configurations for 6-queen(s): 1947792 configurations
+
+Case 337:
+Satisfies 16-queen(s) problem? -> No
+Total Possible Configurations for 16-queen(s): 1.0079 x 10^25 configurations
+
+Case 338:
+Satisfies 8-queen(s) problem? -> Yes
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 339:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 340:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 341:
+Satisfies 8-queen(s) problem? -> Yes
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 342:
+Satisfies 23-queen(s) problem? -> No
+Total Possible Configurations for 23-queen(s): 1.0382 x 10^40 configurations
+
+Case 343:
+Satisfies 7-queen(s) problem? -> No
+Total Possible Configurations for 7-queen(s): 85900584 configurations
+
+Case 344:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 345:
+Satisfies 18-queen(s) problem? -> No
+Total Possible Configurations for 18-queen(s): 1.4948 x 10^29 configurations
+
+Case 346:
+Satisfies 6-queen(s) problem? -> No
+Total Possible Configurations for 6-queen(s): 1947792 configurations
+
+Case 347:
+Satisfies 2-queen(s) problem? -> No
+Total Possible Configurations for 2-queen(s): 6 configurations
+
+Case 348:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 349:
+Satisfies 5-queen(s) problem? -> No
+Total Possible Configurations for 5-queen(s): 53130 configurations
+
+Case 350:
+Satisfies 23-queen(s) problem? -> No
+Total Possible Configurations for 23-queen(s): 1.0382 x 10^40 configurations
+
+Case 351:
+Satisfies 21-queen(s) problem? -> No
+Total Possible Configurations for 21-queen(s): 4.1189 x 10^35 configurations
+
+Case 352:
+Satisfies 1-queen(s) problem? -> Yes
+Total Possible Configurations for 1-queen(s): 1 configurations
+
+Case 353:
+Satisfies 23-queen(s) problem? -> No
+Total Possible Configurations for 23-queen(s): 1.0382 x 10^40 configurations
+
+Case 354:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 355:
+Satisfies 5-queen(s) problem? -> No
+Total Possible Configurations for 5-queen(s): 53130 configurations
+
+Case 356:
+Satisfies 15-queen(s) problem? -> No
+Total Possible Configurations for 15-queen(s): 9.1006 x 10^22 configurations
+
+Case 357:
+Satisfies 2-queen(s) problem? -> No
+Total Possible Configurations for 2-queen(s): 6 configurations
+
+Case 358:
+Satisfies 8-queen(s) problem? -> Yes
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 359:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 360:
+Satisfies 7-queen(s) problem? -> No
+Total Possible Configurations for 7-queen(s): 85900584 configurations
+
+Case 361:
+Satisfies 3-queen(s) problem? -> No
+Total Possible Configurations for 3-queen(s): 84 configurations
+
+Case 362:
+Satisfies 21-queen(s) problem? -> No
+Total Possible Configurations for 21-queen(s): 4.1189 x 10^35 configurations
+
+Case 363:
+Satisfies 9-queen(s) problem? -> No
+Total Possible Configurations for 9-queen(s): 2.6089 x 10^11 configurations
+
+Case 364:
+Satisfies 23-queen(s) problem? -> No
+Total Possible Configurations for 23-queen(s): 1.0382 x 10^40 configurations
+
+Case 365:
+Satisfies 11-queen(s) problem? -> No
+Total Possible Configurations for 11-queen(s): 1.2767 x 10^15 configurations
+
+Case 366:
+Satisfies 9-queen(s) problem? -> No
+Total Possible Configurations for 9-queen(s): 2.6089 x 10^11 configurations
+
+Case 367:
+Satisfies 12-queen(s) problem? -> No
+Total Possible Configurations for 12-queen(s): 1.0362 x 10^17 configurations
+
+Case 368:
+Satisfies 4-queen(s) problem? -> No
+Total Possible Configurations for 4-queen(s): 1820 configurations
+
+Case 369:
+Satisfies 23-queen(s) problem? -> No
+Total Possible Configurations for 23-queen(s): 1.0382 x 10^40 configurations
+
+Case 370:
+Satisfies 1-queen(s) problem? -> Yes
+Total Possible Configurations for 1-queen(s): 1 configurations
+
+Case 371:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 372:
+Satisfies 17-queen(s) problem? -> No
+Total Possible Configurations for 17-queen(s): 1.1907 x 10^27 configurations
+
+Case 373:
+Satisfies 16-queen(s) problem? -> No
+Total Possible Configurations for 16-queen(s): 1.0079 x 10^25 configurations
+
+Case 374:
+Satisfies 4-queen(s) problem? -> No
+Total Possible Configurations for 4-queen(s): 1820 configurations
+
+Case 375:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 376:
+Satisfies 22-queen(s) problem? -> No
+Total Possible Configurations for 22-queen(s): 6.3887 x 10^37 configurations
+
+Case 377:
+Satisfies 8-queen(s) problem? -> No
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 378:
+Satisfies 12-queen(s) problem? -> No
+Total Possible Configurations for 12-queen(s): 1.0362 x 10^17 configurations
+
+Case 379:
+Satisfies 8-queen(s) problem? -> Yes
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 380:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 381:
+Satisfies 8-queen(s) problem? -> Yes
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 382:
+Satisfies 16-queen(s) problem? -> No
+Total Possible Configurations for 16-queen(s): 1.0079 x 10^25 configurations
+
+Case 383:
+Satisfies 12-queen(s) problem? -> No
+Total Possible Configurations for 12-queen(s): 1.0362 x 10^17 configurations
+
+Case 384:
+Satisfies 13-queen(s) problem? -> No
+Total Possible Configurations for 13-queen(s): 9.1764 x 10^18 configurations
+
+Case 385:
+Satisfies 11-queen(s) problem? -> No
+Total Possible Configurations for 11-queen(s): 1.2767 x 10^15 configurations
+
+Case 386:
+Satisfies 23-queen(s) problem? -> No
+Total Possible Configurations for 23-queen(s): 1.0382 x 10^40 configurations
+
+Case 387:
+Satisfies 2-queen(s) problem? -> No
+Total Possible Configurations for 2-queen(s): 6 configurations
+
+Case 388:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 389:
+Satisfies 10-queen(s) problem? -> No
+Total Possible Configurations for 10-queen(s): 1.7310 x 10^13 configurations
+
+Case 390:
+Satisfies 8-queen(s) problem? -> Yes
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 391:
+Satisfies 16-queen(s) problem? -> No
+Total Possible Configurations for 16-queen(s): 1.0079 x 10^25 configurations
+
+Case 392:
+Satisfies 8-queen(s) problem? -> Yes
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 393:
+Satisfies 5-queen(s) problem? -> No
+Total Possible Configurations for 5-queen(s): 53130 configurations
+
+Case 394:
+Satisfies 25-queen(s) problem? -> No
+Total Possible Configurations for 25-queen(s): 3.1269 x 10^44 configurations
+
+Case 395:
+Satisfies 10-queen(s) problem? -> No
+Total Possible Configurations for 10-queen(s): 1.7310 x 10^13 configurations
+
+Case 396:
+Satisfies 17-queen(s) problem? -> No
+Total Possible Configurations for 17-queen(s): 1.1907 x 10^27 configurations
+
+Case 397:
+Satisfies 10-queen(s) problem? -> No
+Total Possible Configurations for 10-queen(s): 1.7310 x 10^13 configurations
+
+Case 398:
+Satisfies 6-queen(s) problem? -> No
+Total Possible Configurations for 6-queen(s): 1947792 configurations
+
+Case 399:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 400:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 401:
+Satisfies 21-queen(s) problem? -> No
+Total Possible Configurations for 21-queen(s): 4.1189 x 10^35 configurations
+
+Case 402:
+Satisfies 11-queen(s) problem? -> No
+Total Possible Configurations for 11-queen(s): 1.2767 x 10^15 configurations
+
+Case 403:
+Satisfies 3-queen(s) problem? -> No
+Total Possible Configurations for 3-queen(s): 84 configurations
+
+Case 404:
+Satisfies 1-queen(s) problem? -> Yes
+Total Possible Configurations for 1-queen(s): 1 configurations
+
+Case 405:
+Satisfies 3-queen(s) problem? -> No
+Total Possible Configurations for 3-queen(s): 84 configurations
+
+Case 406:
+Satisfies 2-queen(s) problem? -> No
+Total Possible Configurations for 2-queen(s): 6 configurations
+
+Case 407:
+Satisfies 8-queen(s) problem? -> Yes
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 408:
+Satisfies 14-queen(s) problem? -> No
+Total Possible Configurations for 14-queen(s): 8.8053 x 10^20 configurations
+
+Case 409:
+Satisfies 2-queen(s) problem? -> No
+Total Possible Configurations for 2-queen(s): 6 configurations
+
+Case 410:
+Satisfies 10-queen(s) problem? -> No
+Total Possible Configurations for 10-queen(s): 1.7310 x 10^13 configurations
+
+Case 411:
+Satisfies 12-queen(s) problem? -> No
+Total Possible Configurations for 12-queen(s): 1.0362 x 10^17 configurations
+
+Case 412:
+Satisfies 16-queen(s) problem? -> No
+Total Possible Configurations for 16-queen(s): 1.0079 x 10^25 configurations
+
+Case 413:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 414:
+Satisfies 16-queen(s) problem? -> No
+Total Possible Configurations for 16-queen(s): 1.0079 x 10^25 configurations
+
+Case 415:
+Satisfies 6-queen(s) problem? -> No
+Total Possible Configurations for 6-queen(s): 1947792 configurations
+
+Case 416:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 417:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 418:
+Satisfies 18-queen(s) problem? -> No
+Total Possible Configurations for 18-queen(s): 1.4948 x 10^29 configurations
+
+Case 419:
+Satisfies 17-queen(s) problem? -> No
+Total Possible Configurations for 17-queen(s): 1.1907 x 10^27 configurations
+
+Case 420:
+Satisfies 4-queen(s) problem? -> No
+Total Possible Configurations for 4-queen(s): 1820 configurations
+
+Case 421:
+Satisfies 1-queen(s) problem? -> Yes
+Total Possible Configurations for 1-queen(s): 1 configurations
+
+Case 422:
+Satisfies 15-queen(s) problem? -> No
+Total Possible Configurations for 15-queen(s): 9.1006 x 10^22 configurations
+
+Case 423:
+Satisfies 13-queen(s) problem? -> No
+Total Possible Configurations for 13-queen(s): 9.1764 x 10^18 configurations
+
+Case 424:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 425:
+Satisfies 15-queen(s) problem? -> No
+Total Possible Configurations for 15-queen(s): 9.1006 x 10^22 configurations
+
+Case 426:
+Satisfies 22-queen(s) problem? -> No
+Total Possible Configurations for 22-queen(s): 6.3887 x 10^37 configurations
+
+Case 427:
+Satisfies 18-queen(s) problem? -> No
+Total Possible Configurations for 18-queen(s): 1.4948 x 10^29 configurations
+
+Case 428:
+Satisfies 9-queen(s) problem? -> No
+Total Possible Configurations for 9-queen(s): 2.6089 x 10^11 configurations
+
+Case 429:
+Satisfies 23-queen(s) problem? -> No
+Total Possible Configurations for 23-queen(s): 1.0382 x 10^40 configurations
+
+Case 430:
+Satisfies 22-queen(s) problem? -> No
+Total Possible Configurations for 22-queen(s): 6.3887 x 10^37 configurations
+
+Case 431:
+Satisfies 14-queen(s) problem? -> No
+Total Possible Configurations for 14-queen(s): 8.8053 x 10^20 configurations
+
+Case 432:
+Satisfies 25-queen(s) problem? -> No
+Total Possible Configurations for 25-queen(s): 3.1269 x 10^44 configurations
+
+Case 433:
+Satisfies 2-queen(s) problem? -> No
+Total Possible Configurations for 2-queen(s): 6 configurations
+
+Case 434:
+Satisfies 17-queen(s) problem? -> No
+Total Possible Configurations for 17-queen(s): 1.1907 x 10^27 configurations
+
+Case 435:
+Satisfies 11-queen(s) problem? -> No
+Total Possible Configurations for 11-queen(s): 1.2767 x 10^15 configurations
+
+Case 436:
+Satisfies 4-queen(s) problem? -> No
+Total Possible Configurations for 4-queen(s): 1820 configurations
+
+Case 437:
+Satisfies 4-queen(s) problem? -> No
+Total Possible Configurations for 4-queen(s): 1820 configurations
+
+Case 438:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 439:
+Satisfies 14-queen(s) problem? -> No
+Total Possible Configurations for 14-queen(s): 8.8053 x 10^20 configurations
+
+Case 440:
+Satisfies 21-queen(s) problem? -> No
+Total Possible Configurations for 21-queen(s): 4.1189 x 10^35 configurations
+
+Case 441:
+Satisfies 14-queen(s) problem? -> No
+Total Possible Configurations for 14-queen(s): 8.8053 x 10^20 configurations
+
+Case 442:
+Satisfies 8-queen(s) problem? -> Yes
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 443:
+Satisfies 21-queen(s) problem? -> No
+Total Possible Configurations for 21-queen(s): 4.1189 x 10^35 configurations
+
+Case 444:
+Satisfies 8-queen(s) problem? -> Yes
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 445:
+Satisfies 22-queen(s) problem? -> No
+Total Possible Configurations for 22-queen(s): 6.3887 x 10^37 configurations
+
+Case 446:
+Satisfies 12-queen(s) problem? -> No
+Total Possible Configurations for 12-queen(s): 1.0362 x 10^17 configurations
+
+Case 447:
+Satisfies 11-queen(s) problem? -> No
+Total Possible Configurations for 11-queen(s): 1.2767 x 10^15 configurations
+
+Case 448:
+Satisfies 25-queen(s) problem? -> No
+Total Possible Configurations for 25-queen(s): 3.1269 x 10^44 configurations
+
+Case 449:
+Satisfies 8-queen(s) problem? -> Yes
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 450:
+Satisfies 12-queen(s) problem? -> No
+Total Possible Configurations for 12-queen(s): 1.0362 x 10^17 configurations
+
+Case 451:
+Satisfies 3-queen(s) problem? -> No
+Total Possible Configurations for 3-queen(s): 84 configurations
+
+Case 452:
+Satisfies 6-queen(s) problem? -> No
+Total Possible Configurations for 6-queen(s): 1947792 configurations
+
+Case 453:
+Satisfies 13-queen(s) problem? -> No
+Total Possible Configurations for 13-queen(s): 9.1764 x 10^18 configurations
+
+Case 454:
+Satisfies 22-queen(s) problem? -> No
+Total Possible Configurations for 22-queen(s): 6.3887 x 10^37 configurations
+
+Case 455:
+Satisfies 10-queen(s) problem? -> No
+Total Possible Configurations for 10-queen(s): 1.7310 x 10^13 configurations
+
+Case 456:
+Satisfies 2-queen(s) problem? -> No
+Total Possible Configurations for 2-queen(s): 6 configurations
+
+Case 457:
+Satisfies 13-queen(s) problem? -> No
+Total Possible Configurations for 13-queen(s): 9.1764 x 10^18 configurations
+
+Case 458:
+Satisfies 9-queen(s) problem? -> No
+Total Possible Configurations for 9-queen(s): 2.6089 x 10^11 configurations
+
+Case 459:
+Satisfies 10-queen(s) problem? -> No
+Total Possible Configurations for 10-queen(s): 1.7310 x 10^13 configurations
+
+Case 460:
+Satisfies 7-queen(s) problem? -> No
+Total Possible Configurations for 7-queen(s): 85900584 configurations
+
+Case 461:
+Satisfies 21-queen(s) problem? -> No
+Total Possible Configurations for 21-queen(s): 4.1189 x 10^35 configurations
+
+Case 462:
+Satisfies 10-queen(s) problem? -> No
+Total Possible Configurations for 10-queen(s): 1.7310 x 10^13 configurations
+
+Case 463:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 464:
+Satisfies 7-queen(s) problem? -> No
+Total Possible Configurations for 7-queen(s): 85900584 configurations
+
+Case 465:
+Satisfies 2-queen(s) problem? -> No
+Total Possible Configurations for 2-queen(s): 6 configurations
+
+Case 466:
+Satisfies 8-queen(s) problem? -> No
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 467:
+Satisfies 10-queen(s) problem? -> No
+Total Possible Configurations for 10-queen(s): 1.7310 x 10^13 configurations
+
+Case 468:
+Satisfies 14-queen(s) problem? -> No
+Total Possible Configurations for 14-queen(s): 8.8053 x 10^20 configurations
+
+Case 469:
+Satisfies 22-queen(s) problem? -> No
+Total Possible Configurations for 22-queen(s): 6.3887 x 10^37 configurations
+
+Case 470:
+Satisfies 17-queen(s) problem? -> No
+Total Possible Configurations for 17-queen(s): 1.1907 x 10^27 configurations
+
+Case 471:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 472:
+Satisfies 18-queen(s) problem? -> No
+Total Possible Configurations for 18-queen(s): 1.4948 x 10^29 configurations
+
+Case 473:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 474:
+Satisfies 21-queen(s) problem? -> No
+Total Possible Configurations for 21-queen(s): 4.1189 x 10^35 configurations
+
+Case 475:
+Satisfies 4-queen(s) problem? -> No
+Total Possible Configurations for 4-queen(s): 1820 configurations
+
+Case 476:
+Satisfies 23-queen(s) problem? -> No
+Total Possible Configurations for 23-queen(s): 1.0382 x 10^40 configurations
+
+Case 477:
+Satisfies 7-queen(s) problem? -> No
+Total Possible Configurations for 7-queen(s): 85900584 configurations
+
+Case 478:
+Satisfies 9-queen(s) problem? -> No
+Total Possible Configurations for 9-queen(s): 2.6089 x 10^11 configurations
+
+Case 479:
+Satisfies 8-queen(s) problem? -> No
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 480:
+Satisfies 2-queen(s) problem? -> No
+Total Possible Configurations for 2-queen(s): 6 configurations
+
+Case 481:
+Satisfies 6-queen(s) problem? -> No
+Total Possible Configurations for 6-queen(s): 1947792 configurations
+
+Case 482:
+Satisfies 22-queen(s) problem? -> No
+Total Possible Configurations for 22-queen(s): 6.3887 x 10^37 configurations
+
+Case 483:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 484:
+Satisfies 19-queen(s) problem? -> No
+Total Possible Configurations for 19-queen(s): 1.9871 x 10^31 configurations
+
+Case 485:
+Satisfies 22-queen(s) problem? -> No
+Total Possible Configurations for 22-queen(s): 6.3887 x 10^37 configurations
+
+Case 486:
+Satisfies 22-queen(s) problem? -> No
+Total Possible Configurations for 22-queen(s): 6.3887 x 10^37 configurations
+
+Case 487:
+Satisfies 12-queen(s) problem? -> No
+Total Possible Configurations for 12-queen(s): 1.0362 x 10^17 configurations
+
+Case 488:
+Satisfies 17-queen(s) problem? -> No
+Total Possible Configurations for 17-queen(s): 1.1907 x 10^27 configurations
+
+Case 489:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 490:
+Satisfies 11-queen(s) problem? -> No
+Total Possible Configurations for 11-queen(s): 1.2767 x 10^15 configurations
+
+Case 491:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 492:
+Satisfies 16-queen(s) problem? -> No
+Total Possible Configurations for 16-queen(s): 1.0079 x 10^25 configurations
+
+Case 493:
+Satisfies 8-queen(s) problem? -> Yes
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 494:
+Satisfies 3-queen(s) problem? -> No
+Total Possible Configurations for 3-queen(s): 84 configurations
+
+Case 495:
+Satisfies 15-queen(s) problem? -> No
+Total Possible Configurations for 15-queen(s): 9.1006 x 10^22 configurations
+
+Case 496:
+Satisfies 24-queen(s) problem? -> No
+Total Possible Configurations for 24-queen(s): 1.7638 x 10^42 configurations
+
+Case 497:
+Satisfies 8-queen(s) problem? -> No
+Total Possible Configurations for 8-queen(s): 4426165368 configurations
+
+Case 498:
+Satisfies 20-queen(s) problem? -> No
+Total Possible Configurations for 20-queen(s): 2.7884 x 10^33 configurations
+
+Case 499:
+Satisfies 10-queen(s) problem? -> No
+Total Possible Configurations for 10-queen(s): 1.7310 x 10^13 configurations
+
+Case 500:
+Satisfies 18-queen(s) problem? -> No
+Total Possible Configurations for 18-queen(s): 1.4948 x 10^29 configurations
+

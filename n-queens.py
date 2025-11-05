@@ -18,7 +18,7 @@ def col(y1, y2):
 def diag(x1, y1, x2, y2, n):
     ans = True
     i = 1
-    while (x1 + i < n or x1 - i > 0) and (y1 + i < n or y1 - i > 0) and ans:
+    while (x1 + i <= n or x1 - i >= 0) and (y1 + i <= n or y1 - i >= 0) and ans:
         ans = (x2 != x1 + i or y2 != y1 + i) and (x1 != x2 + i or y1 != y2 + i)
         if ans:
             ans = (x2 != x1 - i or y2 != y1 - i) and (x1 != x2 - i or y1 != y2 - i)
@@ -43,8 +43,7 @@ def nqueens(l, n):
 
 # cálculo de la cantidad de combinaciones para un tablero de dimensión n
 def configurations(n):
-    ans = comb(n*n, n)
-    return ans
+    return comb(n*n, n)
 
 # formato en notación científica
 def sn_format(n):
@@ -72,10 +71,11 @@ def main():
         a, b = input().split(", ")
         pos = "Yes" if nqueens(l, n) else "No"
         config = configurations(n)
-        num = str(config) if config <= 1000000000000 else sn_format(n)
+        num = str(config) if config <= 10000000000 else sn_format(config)
         print("Case ", i + 1, ":", sep="")
         print("Satisfies ", n, "-queen(s) problem? -> ", pos, sep="")
         print("Total Possible Configurations for ", n, "-queen(s): ", num, " configurations", sep="")
+        print()
     return 0
 
 main()
