@@ -15,19 +15,8 @@ def col(y1, y2):
     return y1 != y2
 
 # verificación si dos reinas están en la misma diagonal
-def diag(x1, y1, x2, y2, n):
-    ans = True
-    i = 1
-    while (x1 + i <= n or x1 - i >= 0) and (y1 + i <= n or y1 - i >= 0) and ans:
-        ans = (x2 != x1 + i or y2 != y1 + i) and (x1 != x2 + i or y1 != y2 + i)
-        if ans:
-            ans = (x2 != x1 - i or y2 != y1 - i) and (x1 != x2 - i or y1 != y2 - i)
-        if ans:
-            ans = (x2 != x1 - i or y2 != y1 + i) and (x1 != x2 - i or y1 != y2 + i)
-        if ans:
-            ans = (x2 != x1 + i or y2 != y1 - i) and (x1 != x2 + i or y1 != y2 - i)
-        i += 1
-    return ans 
+def diag(x1, y1, x2, y2):
+    return (y2 - y1 != x2 - x1) and (y2 - y1 != -x2 + x1);
 
 # determinación de la validez de una combinación de reinas
 def nqueens(l, n):
@@ -36,7 +25,7 @@ def nqueens(l, n):
     while i < len(l) and ans:
         j = i + 1
         while j < len(l) and ans:
-            ans = row(l[i][0], l[j][0]) and col(l[i][1], l[j][1]) and diag(l[i][0], l[i][1], l[j][0], l[j][1], n)
+            ans = row(l[i][0], l[j][0]) and col(l[i][1], l[j][1]) and diag(l[i][0], l[i][1], l[j][0], l[j][1])
             j += 1
         i += 1
     return ans
